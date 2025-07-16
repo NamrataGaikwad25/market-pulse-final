@@ -1,0 +1,38 @@
+.App {
+  max-width: 600px;
+  margin: 40px auto;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.result {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+}
