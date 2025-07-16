@@ -2,6 +2,7 @@
 Predicts whether a stock is bullish, bearish, or neutral for tomorrow based on momentum and recent news. Built with FastAPI, React, and OpenAI GPT-3.5.
 
 📂 Project Structure
+<img width="326" height="817" alt="image" src="https://github.com/user-attachments/assets/8aec87ee-7b7a-42de-b06d-281ad8251ce4" />
 market-pulse/
 ├── backend/
 │   └── venv/
